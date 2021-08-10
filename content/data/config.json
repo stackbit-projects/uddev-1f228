@@ -17,7 +17,8 @@
             },
             {
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "label": "Gallery"
             },
             {
                 "label": "About",
